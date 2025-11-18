@@ -1,33 +1,28 @@
-import Chennai from "./chennai_components/chennai";
-import Karnataka from "./karnataka_components/Karnataka";
-import Kerala from "./kerala_components/Kerala";
+import Chennai from "./components/Chennai";
+import Karnataka from "./components/Karnataka";
+import Kerala from "./components/Kerala";
+import "./App.css"
 
-const App = () => {
-  return (
-    <>
+const APP=()=>{
+return(
+  <>
 
-      <h2>Task 1 </h2>
+  
+   <Chennai/>
+   <Kerala/>
 
-      <div>
-        <Chennai />
-        <Kerala />
-        <Karnataka />
-
-
-      </div>
+<Karnataka/>
+    
 
 
+    
+    
+  
 
+ 
 
-
-
-
-
-
-
-    </>
-  )
+  </>
+)
 
 }
-export default App;
-
+export default APP;

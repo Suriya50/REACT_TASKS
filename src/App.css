@@ -1,0 +1,213 @@
+.chennai {
+    background-color: RGB(152, 180, 212);
+}
+
+   
+
+
+.companies {
+    text-align: center;
+    background-color: RGB(0, 155, 119);
+    border: 1px solid gray;
+    border-radius: 10px;
+    width: 300px;
+    margin-left: 40%;
+    padding: 5px;
+    margin-top: 10px;
+    color: white;
+    align-items: center;
+    
+}
+
+.types ul{
+    margin-top: 10px;
+    
+}
+
+
+.first{
+    background-color: rgb(205, 201, 201);
+    height: 360px;
+    align-items: center;
+    padding: 15px;
+    margin-top: 5px;
+    border-radius: 10px;
+}
+
+.images{
+    text-align: center;
+}
+
+.logo{
+    display: flex;
+    gap: 20px;
+   
+}
+
+.one img {
+    border-radius: 10px;
+    height: 500px;
+    margin-top: 10px;
+    width: 360px;
+    gap: 15px;
+}
+.one img:hover{
+
+
+     box-shadow: 0 12px 30px rgba(0,0,0,0.25);
+  transform: scale(1.06);
+}
+
+.robo img{
+    height: 450px;
+    width: 96%;
+    margin-left: 30px;
+    border-radius: 10px;
+}
+
+.robotics{
+    text-align: center;
+}
+
+.parentrobo{
+    background-color:rgb(180, 180, 180);
+    border-radius: 10px;
+    padding: 6px;
+    margin-top: 8px;
+    
+}
+
+.robo img:hover{
+
+    box-shadow: 0 12px 30px rgba(0,0,0,0.25);
+  transform: scale(1.01);
+
+}
+
+.parent{
+    background-image: url(../public/images/keralalogo.png);
+    background-size: cover;   
+  background-position: center; 
+  background-repeat: no-repeat;
+  border-radius: 10px;
+
+    
+}
+
+.name{
+    text-align: center;
+}
+
+.place{
+    text-align: center;
+}
+
+.places{
+
+    background-color: rgb(104, 204, 104);
+    color: white;
+    font-size: medium;
+    border-radius: 10px;
+}
+.two{
+    color: black;
+}
+
+.location{
+    display: flex;
+    gap: 20px;
+}
+
+.three img{
+    width: 360px;
+    height: 340px;
+    border-radius: 10px;
+
+}
+
+.three img:hover{
+
+    transform: translateY(-10px) scale(1.03);
+  box-shadow: 0 12px 30px rgba(0,0,0,0.25);
+}
+
+.karpar{
+    text-align: center;
+}
+
+.movies{
+
+
+    background-image: url(../public/images/cine.png);
+    background-size: cover;   
+  background-position: center; 
+  background-repeat: no-repeat;
+  border-radius: 10px;
+color: white;
+}
+.img{
+    text-align: center;
+}
+
+
+.cinistars{
+    display: flex;
+    gap: 20px;
+}
+
+.four img{
+    width: 360px;
+    height: 390px;
+    border-radius: 10px;
+}
+
+.four img:hover{
+     transform: translateY(-10px) scale(1.03);
+  box-shadow: 0 12px 30px rgba(0,0,0,0.25);
+}
+.tradi{
+    text-align: center;
+}
+.traditional{
+    
+
+     background-image: url(../public/images/traddd.png);
+    background-size: cover;   
+  background-position: center; 
+  background-repeat: no-repeat;
+  border-radius: 10px;
+color: rgb(12, 12, 12);
+}
+
+.tradimg{
+    text-align: center;
+}
+.lasttrend{
+    display: flex;
+    gap: 20px;
+}
+
+.five img{
+    width: 360px;
+    height: 390px;
+    border-radius: 10px;
+}
+
+.footer {
+  text-align: center;
+  padding: 15px 0;
+  background: #222;
+  color: #fff;
+  font-size: 14px;
+  margin-top: 50px;
+}
+
+.tops{
+    text-align: center;
+    align-items: center;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
