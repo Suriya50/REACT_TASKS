@@ -171,16 +171,16 @@ export const Traditional = () => {
 
  <div className="lasttrend">
                 <div className="five">
-                    <img src="public/images/ugadi.png" alt="images" />
+                    <img src="/images/ugadi.png" alt="images" />
                 </div>
                 <div className="five">
-                    <img src="public/images/dasa.png" alt="images" />
+                    <img src="/images/dasa.png" alt="images" />
                 </div>
                 <div className="five">
-                    <img src="public/images/folk.png" alt="images" />
+                    <img src="/images/folk.png" alt="images" />
                 </div>
                 <div className="five">
-                    <img src="public/images/food.png" alt="images" />
+                    <img src="/images/food.png" alt="images" />
                 </div>
 
             </div>
