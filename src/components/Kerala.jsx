@@ -123,16 +123,16 @@ export const Places = () => {
             </div>
             <div className="location">
                 <div className="three">
-                    <img src="public/images/alllapu.png" alt="images" />
+                    <img src="/images/alllapu.png" alt="images" />
                 </div>
                 <div className="three">
-                    <img src="public/images/mun.png" alt="images" />
+                    <img src="/images/mun.png" alt="images" />
                 </div>
                 <div className="three">
-                    <img src="public/images/waynad.png" alt="images" />
+                    <img src="/images/waynad.png" alt="images" />
                 </div>
                 <div className="three">
-                    <img src="public/images/athi.png" alt="images" />
+                    <img src="/images/athi.png" alt="images" />
                 </div>
 
             </div>

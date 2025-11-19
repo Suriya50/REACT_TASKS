@@ -83,13 +83,15 @@ export const Movies = () => {
                 <div>
 
                     <center>
-                        <button style={{ borderRadius: "10PX", width: "140px", height: "40px", marginTop: "10px" }}>BAHUBALI 1</button><br />
+                        <div className="btn1">
+                        <button   style={{ borderRadius: "10PX", width: "140px", height: "40px", marginTop: "10px" }}>BAHUBALI 1</button><br />
                         <button style={{ borderRadius: "10PX", width: "140px", height: "40px", marginTop: "10px" }}>KGF 1</button><br />
                         <button style={{ borderRadius: "10PX", width: "140px", height: "40px", marginTop: "10px" }}>KGF2</button><br />
                         <button style={{ borderRadius: "10PX", width: "140px", height: "40px", marginTop: "10px" }}>BAHUBALI 2</button><br />
                         <button style={{ borderRadius: "10PX", width: "140px", height: "40px", marginTop: "10px" }}>RRR</button><br />
                         <button style={{ borderRadius: "10PX", width: "140px", height: "40px", marginTop: "10px" }}>KANTARA</button><br />
                         <button style={{ borderRadius: "10PX", width: "140px", height: "40px", marginTop: "10px" }}>CHARLIE 777</button> <br />
+                        </div>
                     </center>
                 </div>
 
@@ -102,16 +104,16 @@ export const Movies = () => {
 
             <div className="cinistars">
                 <div className="four">
-                    <img src="public/images/yash.png" alt="images" />
+                    <img src="/images/yash.png" alt="images" />
                 </div>
                 <div className="four">
-                    <img src="public/images/bahu.png" alt="images" />
+                    <img src="/images/bahu.png" alt="images" />
                 </div>
                 <div className="four">
-                    <img src="public/images/rrr.png" alt="images" />
+                    <img src="/images/rrr.png" alt="images" />
                 </div>
                 <div className="four">
-                    <img src="public/images/kanta.png" alt="images" />
+                    <img src="/images/kanta.png" alt="images" />
                 </div>
 
             </div>

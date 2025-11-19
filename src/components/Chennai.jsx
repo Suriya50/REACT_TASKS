@@ -76,20 +76,20 @@ export const ITcompanys = () => {
 
             <div className="images">
 
-                <h3>Company images</h3>
+                <h2>Company images</h2>
             </div>
             <div className="logo">
                 <div className="one">
-                    <img src="public/images/zoho.png" alt="images" />
+                    <img src="/images/zoho.png" alt="images" />
                 </div>
                 <div className="one">
-                    <img src="public/images/tcs2.png" alt="images" />
+                    <img src="/images/tcs2.png" alt="images" />
                 </div>
                 <div className="one">
-                    <img src="public/images/cog.png" alt="images" />
+                    <img src="/images/cog.png" alt="images" />
                 </div>
                 <div className="one">
-                    <img src="public/images/info.png" alt="images" />
+                    <img src="/images/info.png" alt="images" />
                 </div>
 
             </div>
